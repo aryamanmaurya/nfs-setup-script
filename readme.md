@@ -18,18 +18,18 @@ This Bash script automates the process of setting up an NFS server on CentOS or 
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone git@github.com:aryamanmaurya/nfs-setup-script.git
+    cd nfs-setup-script.git
     ```
 
 2. Make the script executable:
     ```bash
-    chmod +x nfs_setup.sh
+    chmod +x nfs-setup.sh
     ```
 
 3. Run the script:
     ```bash
-    sudo ./nfs_setup.sh
+    sudo ./nfs-setup.sh
     ```
 
 4. Follow the prompts to:
